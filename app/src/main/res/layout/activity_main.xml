@@ -156,7 +156,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_toEndOf="@id/profile_image"
-                android:text="@string/narenda_wicaksono"
+                android:text="@string/rony_arya_wijaya"
                 android:textColor="@android:color/black"
                 android:layout_centerVertical="true"/>
         </RelativeLayout>
