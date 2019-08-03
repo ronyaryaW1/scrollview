@@ -147,7 +147,7 @@
         <de.hdodenhof.circleimageview.CircleImageView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:src="@drawable/photo_2"
+            android:src="@drawable/pp"
             android:layout_centerVertical="true"
             android:id="@+id/profile_image"
             android:layout_marginRight="@dimen/activity_horizontal_margin"/>
